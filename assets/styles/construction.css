@@ -4,5 +4,6 @@ body{
     align-items: center;
 }
 img{
+    max-width: 100vw;
     margin-top: 50px;
 }
